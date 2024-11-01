@@ -1,0 +1,19 @@
+## Dataset files 
+datasets:
+  - <path-to-dataset>/pre_spk_times.feather
+  - <path-to-dataset>/post_9_spk_times.feather
+  #- <path-to-dataset>/post_15_spk_times.feather
+
+## Location for intermediate data 
+data_dir: <path-to-output-dir>/output_dir/YuTang
+
+
+
+## Trial observation window 
+observation_window: '500, 1500'
+
+## DI values 
+max_number_parents: 3
+
+## markov order 
+markov_order: 10

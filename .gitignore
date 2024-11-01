@@ -1,0 +1,8 @@
+data
+#.ipynb_checkpoints/*
+#analysis/.ipynb_checkpoints/*
+#analysis/.ipynb_checkpoints
+#analysis/ipynb_checkpoints_was_hidden/*
+notebooks/.ipynb_checkpoints/*
+.vscode/
+**/__pycache__
